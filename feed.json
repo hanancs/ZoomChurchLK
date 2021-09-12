@@ -1,0 +1,92 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Zoom Church LK",
+    "home_page_url": "https://hanancs.github.io/ZoomChurchLK/",
+    "feed_url": "https://hanancs.github.io/ZoomChurchLK/feed.json",
+    "description": "\"For where two or three are gathered together in my name, there am I in the midst of them.\" Matthew 20:18",
+    "icon": "https://hanancs.github.io/ZoomChurchLK/apple-touch-icon.png",
+    "favicon": "https://hanancs.github.io/ZoomChurchLK/favicon.ico",
+    "expired": false,
+    
+    "author":  {
+        "name": "Ben",
+        "url": null,
+        "avatar": null
+    },
+    
+"items": [
+    
+        {
+            "id": "https://hanancs.github.io/ZoomChurchLK/2021/09/12/komari-methodist",
+            "title": "Komari Methodist Church",
+            "summary": "Generate an Atom (RSS-like) feed of your Jekyll posts",
+            "content_text": "                                      Priest in Charge:      Rev. Easparan              Service Time:      07.30 a.m to 8.30 a.m              Medium      Tamil              Zoom Meeting Link:      Click Here              Zoom Meeting ID:      82226222663              Zoom Meeting Password:      1234                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Easparan</strong></td>    </tr>    <tr>      <td>Service Time:</td>      <td><strong>07.30 a.m to 8.30 a.m</strong></td>    </tr>    <tr>      <td>Medium</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Zoom Meeting Link:</td>      <td><strong><a href=\"https://stackoverflow.com/questions/25104738/text-highlight-in-markdown\">Click Here</a></strong></td>    </tr>    <tr>      <td>Zoom Meeting ID:</td>      <td><strong>82226222663</strong></td>    </tr>    <tr>      <td>Zoom Meeting Password:</td>      <td><strong>1234</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "url": "https://hanancs.github.io/ZoomChurchLK/2021/09/12/komari-methodist",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-12T00:00:00+05:30",
+            "date_modified": "2021-09-12T00:00:00+05:30",
+            
+                "author":  {
+                "name": "Ben",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://hanancs.github.io/ZoomChurchLK/2018/09/20/jaffna-methodist",
+            "title": "Jaffna Methodist Church",
+            "summary": null,
+            "content_text": "                                      Priest in Charge:      Rev. Paul              Service Time:      07.30 a.m to 8.30 a.m              Medium      Tamil              Zoom Meeting Link:      Click Here              Zoom Meeting ID:      82226222663              Zoom Meeting Password:      1234                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Paul</strong></td>    </tr>    <tr>      <td>Service Time:</td>      <td><strong>07.30 a.m to 8.30 a.m</strong></td>    </tr>    <tr>      <td>Medium</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Zoom Meeting Link:</td>      <td><strong><a href=\"https://stackoverflow.com/questions/25104738/text-highlight-in-markdown\">Click Here</a></strong></td>    </tr>    <tr>      <td>Zoom Meeting ID:</td>      <td><strong>82226222663</strong></td>    </tr>    <tr>      <td>Zoom Meeting Password:</td>      <td><strong>1234</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "url": "https://hanancs.github.io/ZoomChurchLK/2018/09/20/jaffna-methodist",
+            
+            
+            
+            "tags": ["tamil","english"],
+            
+            "date_published": "2018-09-20T00:00:00+05:30",
+            "date_modified": "2018-09-20T00:00:00+05:30",
+            
+                "author":  {
+                "name": "Ben",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://hanancs.github.io/ZoomChurchLK/2018/09/11/mannar-methodist",
+            "title": "Mannar Methodist Church",
+            "summary": null,
+            "content_text": "                                      Priest in Charge:      Rev.              Service Time:      07.30 a.m to 8.30 a.m              Medium      Tamil              Zoom Meeting Link:      Click Here              Zoom Meeting ID:      82226222663              Zoom Meeting Password:      1234                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev.</strong></td>    </tr>    <tr>      <td>Service Time:</td>      <td><strong>07.30 a.m to 8.30 a.m</strong></td>    </tr>    <tr>      <td>Medium</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Zoom Meeting Link:</td>      <td><strong><a href=\"https://stackoverflow.com/questions/25104738/text-highlight-in-markdown\">Click Here</a></strong></td>    </tr>    <tr>      <td>Zoom Meeting ID:</td>      <td><strong>82226222663</strong></td>    </tr>    <tr>      <td>Zoom Meeting Password:</td>      <td><strong>1234</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "url": "https://hanancs.github.io/ZoomChurchLK/2018/09/11/mannar-methodist",
+            
+            
+            
+            
+            
+            "date_published": "2018-09-11T00:00:00+05:30",
+            "date_modified": "2018-09-11T00:00:00+05:30",
+            
+                "author":  {
+                "name": "Ben",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        }
+    
+    ]
+}
