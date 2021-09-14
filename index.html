@@ -3,12 +3,12 @@ layout: default
 ---
 <section id="intro">
     <div class="flex-row-between">
-        <h1>{{ site.greetings }}</h1>
+        <h1 class="tracking-in-expand">{{ site.greetings }}</h1>
         <button title="Change theme" id="theme-toggle" onclick="modeSwitcher()">
             <div></div>
         </button>
     </div>
-    <div class="bio">
+    <div class="bio tracking-in-contract-bck">
 	    {{ site.description }}
         <p>
 	    <a href="{{ site.url }}/aboutus/">> Who We Are...</a>
