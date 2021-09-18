@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Point Pedro Methodist Church",
+      "category" : "",
+      "tags"     : "tamil",
+      "url"      : "https://hanancs.github.io/ZoomChurchLK/2021/09/18/pointpedro-methodist",
+      "date"     : "2021-09-18 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Komari Methodist Church",
       "category" : "",
       "tags"     : "tamil",
@@ -9,10 +17,10 @@
     } ,
   
     {
-      "title"    : "Jaffna Methodist Church",
+      "title"    : "Kollupitiya Methodist Church",
       "category" : "",
-      "tags"     : "tamil, english",
-      "url"      : "https://hanancs.github.io/ZoomChurchLK/2018/09/20/jaffna-methodist",
+      "tags"     : "tamil, english, sinhala",
+      "url"      : "https://hanancs.github.io/ZoomChurchLK/2018/09/20/kollupitiya-methodist",
       "date"     : "2018-09-20 00:00:00 +0530"
     } ,
   
