@@ -9,9 +9,12 @@ tags: tamil
 |  |  |
 |--|--|
 | Priest in Charge: | **Rev. Easparan** |
-| Service Time: | **07.30 a.m to 8.30 a.m** |
-| Medium | **Tamil** |
-| Zoom Meeting Link: | **[Click Here](https://stackoverflow.com/questions/25104738/text-highlight-in-markdown)** |
-| Zoom Meeting ID: | **82226222663** |
-| Zoom Meeting Password: | **1234** |
+| Sunday Service Starts At: | **07.30 a.m** |
+| Preacher: | **Rev. Easparan** |
+| Theme: | **-** |
+| Medium: | **Tamil** |
+| Meeting Platform: | **Zoom** |
+| Meeting Link: | **[Will be provided  soon]()** |
+| Meeting ID: | **882 6630 4676** |
+| Meeting Passcode: | **1234** |
 |||
