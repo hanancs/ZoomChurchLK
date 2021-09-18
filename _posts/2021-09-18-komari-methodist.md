@@ -10,7 +10,7 @@ tags: tamil
 |--|--|
 | Priest in Charge: | **Rev. Easparan** |
 | Sunday Service Starts At: | **07.30 a.m** |
-| Preacher: | **Rev. Easparan** |
+| Preacher: | **-** |
 | Theme: | **-** |
 | Medium: | **Tamil** |
 | Meeting Platform: | **Zoom** |
