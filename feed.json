@@ -68,9 +68,33 @@
             "id": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/komari-methodist",
             "title": "Komari Methodist Church",
             "summary": "Generate an Atom (RSS-like) feed of your Jekyll posts",
-            "content_text": "                                      Priest in Charge:      Rev. Easparan              Sunday Service Starts At:      07.30 a.m              Preacher:      Rev. Easparan              Theme:      -              Medium:      Tamil              Meeting Platform:      Zoom              Meeting Link:      Will be provided  soon              Meeting ID:      882 6630 4676              Meeting Passcode:      1234                            ",
-            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Easparan</strong></td>    </tr>    <tr>      <td>Sunday Service Starts At:</td>      <td><strong>07.30 a.m</strong></td>    </tr>    <tr>      <td>Preacher:</td>      <td><strong>Rev. Easparan</strong></td>    </tr>    <tr>      <td>Theme:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Medium:</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Meeting Platform:</td>      <td><strong>Zoom</strong></td>    </tr>    <tr>      <td>Meeting Link:</td>      <td><strong><a href=\"\">Will be provided  soon</a></strong></td>    </tr>    <tr>      <td>Meeting ID:</td>      <td><strong>882 6630 4676</strong></td>    </tr>    <tr>      <td>Meeting Passcode:</td>      <td><strong>1234</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "content_text": "                                      Priest in Charge:      Rev. Easparan              Sunday Service Starts At:      07.30 a.m              Preacher:      -              Theme:      -              Medium:      Tamil              Meeting Platform:      Zoom              Meeting Link:      Will be provided  soon              Meeting ID:      882 6630 4676              Meeting Passcode:      1234                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Easparan</strong></td>    </tr>    <tr>      <td>Sunday Service Starts At:</td>      <td><strong>07.30 a.m</strong></td>    </tr>    <tr>      <td>Preacher:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Theme:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Medium:</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Meeting Platform:</td>      <td><strong>Zoom</strong></td>    </tr>    <tr>      <td>Meeting Link:</td>      <td><strong><a href=\"\">Will be provided  soon</a></strong></td>    </tr>    <tr>      <td>Meeting ID:</td>      <td><strong>882 6630 4676</strong></td>    </tr>    <tr>      <td>Meeting Passcode:</td>      <td><strong>1234</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
             "url": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/komari-methodist",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-18T00:00:00+05:30",
+            "date_modified": "2021-09-18T00:00:00+05:30",
+            
+                "author":  {
+                "name": "Ben",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
+            "id": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/kilnochchi-methodist",
+            "title": "Kilinochchi Methodist Church",
+            "summary": "Generate an Atom (RSS-like) feed of your Jekyll posts",
+            "content_text": "                                      Priest in Charge:      Rev. Sasikumar Thomas              Sunday Service Starts At:      08.30 a.m              Preacher:      -              Theme:      -              Medium:      Tamil              Meeting Platform:      Zoom              Meeting Link:      Click Here              Meeting ID:      870 8565 5308              Meeting Passcode:      487847                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Sasikumar Thomas</strong></td>    </tr>    <tr>      <td>Sunday Service Starts At:</td>      <td><strong>08.30 a.m</strong></td>    </tr>    <tr>      <td>Preacher:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Theme:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Medium:</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Meeting Platform:</td>      <td><strong>Zoom</strong></td>    </tr>    <tr>      <td>Meeting Link:</td>      <td><strong><a href=\"https://us02web.zoom.us/u/kwl4ojkkH\">Click Here</a></strong></td>    </tr>    <tr>      <td>Meeting ID:</td>      <td><strong>870 8565 5308</strong></td>    </tr>    <tr>      <td>Meeting Passcode:</td>      <td><strong>487847</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "url": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/kilnochchi-methodist",
             
             
             
