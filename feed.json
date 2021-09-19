@@ -113,6 +113,30 @@
         },
     
         {
+            "id": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/chenkalady-mehodist",
+            "title": "Chenkalady Methodist Church",
+            "summary": "Generate an Atom (RSS-like) feed of your Jekyll posts",
+            "content_text": "                                      Priest in Charge:      Rev. Arularj              Sunday Service Starts At:      08.30 a.m              Preacher:      -              Theme:      -              Medium:      Tamil              Meeting Platform:      YouTube Live              Meeting Link:      Click Here              Meeting ID:      -              Meeting Passcode:      -                            ",
+            "content_html": "<table>  <thead>    <tr>      <th> </th>      <th> </th>    </tr>  </thead>  <tbody>    <tr>      <td>Priest in Charge:</td>      <td><strong>Rev. Arularj</strong></td>    </tr>    <tr>      <td>Sunday Service Starts At:</td>      <td><strong>08.30 a.m</strong></td>    </tr>    <tr>      <td>Preacher:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Theme:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Medium:</td>      <td><strong>Tamil</strong></td>    </tr>    <tr>      <td>Meeting Platform:</td>      <td><strong>YouTube Live</strong></td>    </tr>    <tr>      <td>Meeting Link:</td>      <td><strong><a href=\"https://www.youtube.com/channel/UCBDE8762BSxLHTdi9fx2pOg\">Click Here</a></strong></td>    </tr>    <tr>      <td>Meeting ID:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td>Meeting Passcode:</td>      <td><strong>-</strong></td>    </tr>    <tr>      <td> </td>      <td> </td>    </tr>  </tbody></table>",
+            "url": "https://hanancs.github.io/ZoomChurchLK/2021/09/18/chenkalady-mehodist",
+            
+            
+            
+            
+            
+            "date_published": "2021-09-18T00:00:00+05:30",
+            "date_modified": "2021-09-18T00:00:00+05:30",
+            
+                "author":  {
+                "name": "Ben",
+                "url": null,
+                "avatar": null
+                }
+                
+            
+        },
+    
+        {
             "id": "https://hanancs.github.io/ZoomChurchLK/2018/09/18/kollupitiya-methodist",
             "title": "Kollupitiya Methodist Church",
             "summary": null,
