@@ -16,7 +16,7 @@ tags: sinhala english
 | Theme: | **-** |
 | Medium: | **Sinhala** |
 | Meeting Platform: | **Zoom** |
-| Meeting Link(YouTube): | **[Click Here]()** |
+| Meeting Link: | **[Click Here]()** |
 | Meeting ID: | **-** |
 | Meeting Passcode: | **-** |
 |||
@@ -27,11 +27,11 @@ tags: sinhala english
 |--|--|
 | Priest in Charge: | **Rev. Kingsley Weerasinghe** |
 | Sunday Service Starts At: | **09.15 a.m** |
-| Preacher: | **Rev Leslie Dareeju** |
-| Theme: | **Who is the greatest?** |
+| Preacher: | **-** |
+| Theme: | **-** |
 | Medium: | **English** |
 | Meeting Platform: | **Zoom** |
-| Meeting Link(Zoom): | **[Click Here]( https://us02web.zoom.us/j/85367575212?pwd=VE9VV0FlSHBpaVJnMUF0TTlyeFcvQT09)** |
+| Meeting Link: | **[Click Here]( https://us02web.zoom.us/j/85367575212?pwd=VE9VV0FlSHBpaVJnMUF0TTlyeFcvQT09)** |
 | Meeting ID: | **853 6757 5212** |
 | Meeting Passcode: | **039520** |
 |||
